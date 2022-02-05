@@ -1,0 +1,20 @@
+body {
+  box-sizing: border-box;
+  text-align: center;
+}
+.slide {
+  min-width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cube {
+  max-width: 95vw;
+  width: 600px;
+  height: 600px;
+}
+
+img {
+  width: 100%;
+}
